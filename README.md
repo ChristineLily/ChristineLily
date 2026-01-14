@@ -1,4 +1,4 @@
-# ❤️ Hi there, My name's Christine aka NikitaTheChick ❤️
+# ❤️ Hi there, My name's Christine. ❤️
 
 - 👩‍💻 Software Developer specializing in building modern, cross-platform apps with Python using Flet or Kivy and backend APIs with Go.
 - 👩‍🎓 Passionate auto-didact and lifelong learner.
