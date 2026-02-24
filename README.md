@@ -1,7 +1,7 @@
 # ❤️ Hi there, My name's Christine. ❤️
 
 - 👩‍💻 Software Developer specializing in building backend APIs with Python & Go.
-- 🅰️ AUR (Arch User Repository) Open Source Maintainer
+- 🅰️ AUR (Arch User Repository) Open Source Maintainer...I use Arch btw
 - 👩‍🎓 Passionate auto-didact and lifelong learner.
 - 🤔 Interested in Interoperability, Cross-Platform Development, and high throughput Data Engineering
 - 💬 Actively learning C# and .Net
